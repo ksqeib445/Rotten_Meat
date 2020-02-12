@@ -1,0 +1,4 @@
+#配方列表
+madelist:
+#  - '输入--输出--经验值(支持小数)'
+  - 'ROTTEN_FLESH--LEATHER--20'
